@@ -269,10 +269,10 @@ class EdifyGenerator(object):
     self.Print("----------------------------------------------")
     if is_plus:
       self.Print("               PixelExtended")
-      self.Print("                by Aryan Gupta")
+      self.Print("                by PEX Team")
     else:
       self.Print("              PixelExtended")
-      self.Print("              by Aryan Gupta")
+      self.Print("              by PEX Team")
     self.Print("----------------------------------------------")
     self.Print(" Android version: %s"%(android_version))
     self.Print(" PixelExtended version: %s"%(pex_version))
